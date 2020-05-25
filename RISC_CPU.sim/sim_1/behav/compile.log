@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Projects/RISC_CPU/RISC_CPU.srcs/sources_1/new/clk_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_gen
+ERROR: [VRFC 10-1412] syntax error near = [C:/Projects/RISC_CPU/RISC_CPU.srcs/sources_1/new/clk_gen.v:43]
+ERROR: [VRFC 10-51] idle is an unknown type [C:/Projects/RISC_CPU/RISC_CPU.srcs/sources_1/new/clk_gen.v:43]
+ERROR: [VRFC 10-91] idle is not declared [C:/Projects/RISC_CPU/RISC_CPU.srcs/sources_1/new/clk_gen.v:50]
+ERROR: [VRFC 10-91] idle is not declared [C:/Projects/RISC_CPU/RISC_CPU.srcs/sources_1/new/clk_gen.v:79]
+ERROR: [VRFC 10-1040] module clk_gen ignored due to previous errors [C:/Projects/RISC_CPU/RISC_CPU.srcs/sources_1/new/clk_gen.v:23]
